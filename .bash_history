@@ -57,3 +57,9 @@ git log
 git log
 git log
 exit
+git init
+git status
+git add .bash_history
+gir
+git commit .bash_history -m "This is a windows file"
+git push origin master
